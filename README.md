@@ -6,6 +6,7 @@
 - Software Analyst and Developer - ESBAM
 - Database Administration Specialist - FAMETRO
 - MBA in Project Management
+- Studying cloud computing (Gpc, Azure, Aws and Oci)
 
 ### Skills 
 - Sql Server
