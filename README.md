@@ -5,8 +5,8 @@
 - Data Administrator
 - Software Analyst and Developer - ESBAM
 - Database Administration Specialist - FAMETRO
-- MBA in Project Management
-- Studying cloud computing (Gpc, Azure, Aws and Oci)
+- MBA in Project Management - UNINORTE
+- Studying cloud computing (Gpc, Azure, Aws and Oci) - THE CLOUD BOOTCAMP
 
 ### Skills 
 - Sql Server
