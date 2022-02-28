@@ -16,38 +16,40 @@
 - Data Engineer Azure 
   --> Ingest & Prep 
   
-        * Azure Synapse SQL serverless ;
-        * zure Synapse Spark ;
-        * Azure Synapse SQL PipeLines;
-        * Azure Data Factory;
-        * Azure DataBricks ;
+        - Azure Synapse SQL serverless ;
+        - zure Synapse Spark ;
+        - Azure Synapse SQL PipeLines;
+        - Azure Data Factory;
+        - Azure DataBricks ;
 
   --> Model & Serve
   
-        * Azure Synapse Analytics (SQL polls, Spark, Link) ;
-        * Azure Data Lake Storage (Storage Acount);
+        - Azure Synapse Analytics (SQL polls, Spark, Link) ;
+        - Azure Data Lake Storage (Storage Acount);
+        - Azure Cosmos DB
 
   -->Visuzalize
         
-        Power Bi.
+        - Power Bi.
         
-  - Hadoop
-  - Hdfs
-  - Spark
-  - Hive
-  - scoop
-  - Python
-  - R
-  - Java
+  -->Cloudera
+  -->Hadoop
+  -->Hdfs
+  -->Spark
+  -->Hive
+  -->scoop
+  -->Python
+  -->R
+  -->Java
       
 - Data Administrator
   
-- Sql Server
-- Oracle
-- MySql
-- PostgreSQL
-- MongoDb
-- Redis
+  -->Sql Server
+  -->Oracle
+  -->MySql
+  -->PostgreSQL
+  -->MongoDb
+  -->Redis
 ...
 ### Find me around the world 
 <a href="https://www.linkedin.com/in/ricardorbrito/" alt="linkedin" target="_blank">
