@@ -2,6 +2,7 @@
 - - ----------------------------------------------------------------------------
 ### Who am I?
 - - ----------------------------------------------------------------------------
+- Data Engineer
 - Data Administrator
 - Software Analyst and Developer - ESBAM
 - Database Administration Specialist - FAMETRO
@@ -10,7 +11,7 @@
 
 ### Skills 
 
-- Cloud (Azure , Oracle , Aws e Google);
+- Cloud (Azure , Oracle , Aws and Google);
 
 - Data Engineer Azure 
   --> Ingest & Prep 
@@ -29,6 +30,17 @@
   -->Visuzalize
         
         Power Bi.
+        
+  - Hadoop
+  - Hdfs
+  - Spark
+  - Hive
+  - scoop
+  - Python
+  - R
+  - Java
+      
+- Data Administrator
   
 - Sql Server
 - Oracle
@@ -36,15 +48,7 @@
 - PostgreSQL
 - MongoDb
 - Redis
-- Hadoop
-- Hdfs
-- Spark
-- Hive
-- scoop
-- Python
-- R
-- Java
-- ...
+...
 ### Find me around the world 
 <a href="https://www.linkedin.com/in/ricardorbrito/" alt="linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
