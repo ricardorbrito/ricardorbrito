@@ -9,6 +9,27 @@
 - Studying cloud computing (Gpc, Azure, Aws and Oci) - THE CLOUD BOOTCAMP
 
 ### Skills 
+
+- Cloud (Azure , Oracle , Aws e Google);
+
+- Data Engineer Azure 
+  --> Ingest & Prep 
+  
+        * Azure Synapse SQL serverless ;
+        * zure Synapse Spark ;
+        * Azure Synapse SQL PipeLines;
+        * Azure Data Factory;
+        * Azure DataBricks ;
+
+  --> Model & Serve
+  
+        * Azure Synapse Analytics (SQL polls, Spark, Link) ;
+        * Azure Data Lake Storage (Storage Acount);
+
+  -->Visuzalize
+        
+        Power Bi.
+  
 - Sql Server
 - Oracle
 - MySql
