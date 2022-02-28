@@ -4,10 +4,10 @@
 - - ----------------------------------------------------------------------------
 - Data Engineer
 - Data Administrator
-- Software Analyst and Developer - ESBAM
+- Studying cloud computing (Gpc, Azure, Aws and Oci) - THE CLOUD BOOTCAMP
 - Database Administration Specialist - FAMETRO
 - MBA in Project Management - UNINORTE
-- Studying cloud computing (Gpc, Azure, Aws and Oci) - THE CLOUD BOOTCAMP
+- Software Analyst and Developer - ESBAM
 
 ### Skills 
 
@@ -51,7 +51,8 @@
   -->PostgreSQL
   -->MongoDb
   -->Redis
-...
+
+
 ### Find me around the world 
 <a href="https://www.linkedin.com/in/ricardorbrito/" alt="linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
