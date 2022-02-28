@@ -14,7 +14,7 @@
 - Cloud (Azure , Oracle , Aws and Google);
 
 - Data Engineer Azure 
--
+
   --> Ingest & Prep 
   
         - Azure Synapse SQL serverless ;
